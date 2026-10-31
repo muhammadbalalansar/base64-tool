@@ -49,7 +49,7 @@ b64tool encode "Hello World"
 | `b64tool peel` | Recursively strip multi-layered encoding to reveal original data |
 | `b64tool chain` | Chain multiple encoding steps together for obfuscation testing |
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
