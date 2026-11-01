@@ -27,7 +27,7 @@
 - Chain multiple encoding steps to test obfuscation patterns
 - Pipeline-friendly output for integration into security workflows
 
-## Quick Start:
+## Quick Start
 
 ```bash
 uv tool install b64tool
