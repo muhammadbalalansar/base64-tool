@@ -25,7 +25,7 @@
 - Auto-detect encoding format with confidence scoring
 - Peel command recursively strips multi-layered encoding (WAF bypass analysis)
 - Chain multiple encoding steps to test obfuscation patterns
-- Pipeline-friendly output for integration into security workflows
+- Pipeline-friendly output for integration into security workflows. 
 
 ## Quick Start
 
