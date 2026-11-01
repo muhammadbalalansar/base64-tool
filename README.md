@@ -19,7 +19,7 @@
 
 **[Screenshots & demo →](DEMO.md)**
 
-## What It Does:
+## What It Does
 
 - Encode and decode Base64, Base64URL, Base32, Hex, and URL formats
 - Auto-detect encoding format with confidence scoring
