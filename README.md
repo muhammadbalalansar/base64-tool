@@ -13,7 +13,7 @@
 [![License: AGPLv3](https://img.shields.io/badge/License-AGPL_v3-purple.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![PyPI](https://img.shields.io/pypi/v/b64tool?color=3775A9&logo=pypi&logoColor=white)](https://pypi.org/project/b64tool/)
 
-> Multi-format encoding/decoding CLI with recursive layer detection for security analysis
+> Multi-format encoding/decoding CLI with recursive layer detection for security analysis. 
 
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
