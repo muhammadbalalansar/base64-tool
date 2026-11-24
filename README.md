@@ -45,7 +45,7 @@ b64tool encode "Hello World"
 |---------|-------------|
 | `b64tool encode` | Encode text into Base64, Base64URL, Base32, Hex, or URL format |
 | `b64tool decode` | Decode encoded text back to plaintext |
-| `b64tool detect` | Auto-detect the encoding format with confidence scoring |
+| `b64tool detect` | Auto-detect the encoding format with confidence scoring |     
 | `b64tool peel` | Recursively strip multi-layered encoding to reveal original data |
 | `b64tool chain` | Chain multiple encoding steps together for obfuscation testing |
 
